@@ -9,7 +9,7 @@
 
 > 🛠️ 사용 환경: Python, Pandas, Jupyter Notebook
 
-> 정규화된 파생 피처로 본 사기 거래 건 분석의 자세한 진행 과정은 [velog.io/@jul-ee]([https://velog.io/@jul-ee/DS-%EB%B9%84%EC%A0%95%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-Feature-Engineering-w.fraud](https://velog.io/@jul-ee/DS-%EB%B9%84%EC%A0%95%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%95%EA%B7%9C%ED%99%94%EB%90%9C-%ED%8C%8C%EC%83%9D-%ED%94%BC%EC%B2%98%EB%A1%9C-%EB%B3%B8-%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C-%EC%9D%B4%EC%83%81%EA%B1%B0%EB%9E%98-%ED%83%90%EC%A7%80-%EB%B6%84%EC%84%9D))에서 확인하실 수 있습니다.
+> 정규화된 파생 피처로 본 사기 거래 건 분석의 자세한 진행 과정은 [velog.io/@jul-ee](https://velog.io/@jul-ee/DS-%EB%B9%84%EC%A0%95%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%95%EA%B7%9C%ED%99%94%EB%90%9C-%ED%8C%8C%EC%83%9D-%ED%94%BC%EC%B2%98%EB%A1%9C-%EB%B3%B8-%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C-%EC%9D%B4%EC%83%81%EA%B1%B0%EB%9E%98-%ED%83%90%EC%A7%80-%EB%B6%84%EC%84%9D)에서 확인하실 수 있습니다.
 
 <br>
 <br>
